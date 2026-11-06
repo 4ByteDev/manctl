@@ -1,0 +1,8 @@
+{
+  "name": "name", "windowHandle": "windowHandle", "windowTitle": "windowTitle", "x": "x", "y": "y", "width": "width", "height": "height",
+  "button": "button", "doubleClick": "doubleClick", "text": "text", "keys": "keys", "path": "path", "action": "action", "mode": "mode",
+  "timeout": "timeoutSeconds", "scale": "scale", "executable": "executable", "arguments": "arguments", "waitForType": "waitForType",
+  "state": "state", "matchText": "matchText", "envName": "name", "value": "value", "scope": "scope", "lines": "lines",
+  "localPath": "localPath", "devicePath": "devicePath", "deltaY": "deltaY", "property": "property", "expected": "expected",
+  "profileName": "profileName", "processName": "processName", "idle": "idleThresholdSeconds"
+}

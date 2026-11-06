@@ -1,0 +1,30 @@
+# build output
+bin/
+obj/
+publish/
+*.zip
+*.exe
+*.dll
+*.pdb
+
+# IDE / OS
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+Thumbs.db
+desktop.ini
+
+# python
+__pycache__/
+*.pyc
+
+# test scratch
+ans_*.json
+cards_*.md
+recovery_real*.md
+recovery_meta*.json
+focus_new.md
+focus_old.md
+focus_meta.json
