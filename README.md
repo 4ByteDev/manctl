@@ -7,6 +7,11 @@ by [4ByteDev](https://github.com/4ByteDev)
 
 ## Quick start
 
+> **Don't want to build it?** Download `manctl-<version>-win-x64.zip` from the
+> [Releases](https://github.com/4ByteDev/manctl/releases) page (self-contained, no .NET install needed; the SHA-256 is in the
+> release notes), unzip it and skip to step 2 using the path of the unzipped `Manctl.Server.exe`. Release binaries are built by
+> GitHub Actions from the tagged source and contain no debug symbols. The binary is not code-signed.
+
 1. **Build** (Windows, [.NET 8 SDK](https://dotnet.microsoft.com/download)):
 
    ```powershell
